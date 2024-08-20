@@ -33,10 +33,11 @@ Spec:
 
 Q4 2024 (Nov) in time for the Festive Season.
 
+![2](https://github.com/user-attachments/assets/5e0c82ba-9495-43a0-988e-87b9d06a14bf)
 ![5](https://github.com/user-attachments/assets/5ff09e35-b3c2-4adc-a51e-4167b17a32c3)
 ![4](https://github.com/user-attachments/assets/44b5c1eb-6a4f-4e06-bc76-530260f75b74)
 ![3](https://github.com/user-attachments/assets/ce4a1f1e-623a-41db-abea-2b7c9b80208c)
-![2](https://github.com/user-attachments/assets/5e0c82ba-9495-43a0-988e-87b9d06a14bf)
+
 
 Available Exclusively per territory at the following resellers: 
 
