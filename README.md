@@ -11,11 +11,11 @@ Let Mother natures☀️take care of your BTC Hashpower needs!
 
 Spec:
 
--Autonomous Solar Tracking system (East <->West).
+-Autonomous Solar Tracking system (East <->West). both X and Y axis movement 
 
 -Auto sleep and reset East after sunset.
 
--30W max power.
+-30W max input solar power.
 
 -Rain Sensor to Activate Solar panel Umbrella mode.
 
