@@ -44,12 +44,15 @@ Available Exclusively per territory at the following resellers:
 UK & Rest of World
 @dtvelectronics
  https://dtvelectronics.com
+ 
 EU: 
 @Printer_Gobrrr
   https://gobrrr.me
+  
 USA: 
 @SoloSatoshi
  https://solosatoshi.com
+ 
 Canada: 
 @DCentralTech
  https://d-central.tech
