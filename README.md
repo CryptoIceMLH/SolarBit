@@ -7,15 +7,25 @@ SolarBit  will soon free your BitAxe from the shackles of centralised grid power
 Let Mother natures☀️take care of your BTC Hashpower needs!
 
 Spec:
+
 -Autonomous Solar Tracking system (East <->West).
+
 -Auto sleep and reset East after sunset.
+
 -30W max power.
+
 -Rain Sensor to Activate Solar panel Umbrella mode.
+
 -Temp Sensor for Thermal Protection
+
 -Water Resistant 
+
 -UV Resistant 
+
 -Approx. dimensions 560x300x375 mm
+
 -Weight TBC
+
 - Required (not included): 1 X BitAxe & 1 X 12vLiFePO4 Lithium Battery (6-8Ah).
 
 Q4 2024 (Nov) in time for the Festive Season.
