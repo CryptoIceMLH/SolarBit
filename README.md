@@ -50,11 +50,3 @@ UK & Rest of World
 EU: 
 @Printer_Gobrrr
   https://gobrrr.me
-  
-USA: 
-@SoloSatoshi
- https://solosatoshi.com
- 
-Canada: 
-@DCentralTech
- https://d-central.tech
