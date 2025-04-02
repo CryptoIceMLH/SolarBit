@@ -53,15 +53,13 @@ Note: As this is a live project, all data is subject to change at any time.
 
 ![](img/GmdltHfWEAARRBm.jpg)
 ![](img/SolarbitV1.png)
-
 <div style="position: relative; width: 100%; padding-bottom: 56.25%">
-<iframe src="https://www.youtube.com/embed/_ywQv0ST36M" 
-        title="Solarbit Pre production walk around" frameborder="0" allowfullscreen
+<iframe src="https://www.youtube.com/embed/sUs6BP35gTc" 
+        title="SolarBit - Bitcoin Mining @ 0$ / Kwh / Th" frameborder="0" allowfullscreen
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
         style="position: absolute; width: 100%; height: 100%;">
 </iframe>
 </div>
-
 
 If you wish to support our work you can visit us on
 <a href="https://geyser.fund/project/solarbit?hero=holdings" target="_blank">Geyser</a>
