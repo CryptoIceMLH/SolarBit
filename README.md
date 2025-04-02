@@ -5,7 +5,8 @@
 
 ## **The Dawn of Perpetual Solar Powered ₿ Home Mining**
 
-
+If you wish to support our work you can visit our goal at
+<a href="https://geyser.fund/project/solarbit?hero=holdings" target="_blank">Geyser</a>
 ### What's in this Repo
 
 - [x] Prototype build folder
