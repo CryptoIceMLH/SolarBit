@@ -17,7 +17,7 @@
 
 ![](img/Gk3GHBeXMAATnz1.jpg)
 
-### Meet the Solar₿it
+### <a href="https://youtu.be/sUs6BP35gTc?si=2s8ezLkgRcRacE2g" target="_blank"> Meet the Solar₿it</a>
 ### $0 / Kwh / Ths
 
 
@@ -54,7 +54,7 @@ Note: As this is a live project, all data is subject to change at any time.
 ![](img/GmdltHfWEAARRBm.jpg)
 ![](img/SolarbitV1.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sUs6BP35gTc?si=3Ngi09Cnu1K8VgP-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 If you wish to support our work you can visit us on
 <a href="https://geyser.fund/project/solarbit?hero=holdings" target="_blank">Geyser</a>
