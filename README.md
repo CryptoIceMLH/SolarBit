@@ -11,7 +11,7 @@ If you wish to support our work you can visit our goal at
 
 - [x] Prototype build folder
 
-- [x] Firmware Alpha
+- [x] Firmware Beta
 
 
 #
