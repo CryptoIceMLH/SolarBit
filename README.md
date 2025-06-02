@@ -22,7 +22,7 @@ If you wish to support our work you can visit our goal at
 ### $0 / Kwh / Ths
 
 
-Your <a href="https://osmu.wiki/" target="_blank">OSMU</a> perpetual energy partner.
+Your BTC Home miner perpetual energy partner.
 
 
 ## Summary of Specs:
