@@ -15,8 +15,11 @@ If you wish to support our work you can visit our goal at
 
 
 #
+![Solarbit_1 1 (8)_gobrrr me](https://github.com/user-attachments/assets/336f6e9d-163b-489b-a487-5bbd97e5dc91)
 
-![](img/Gk3GHBeXMAATnz1.jpg)
+
+
+
 
 ### <a href="https://youtu.be/sUs6BP35gTc?si=2s8ezLkgRcRacE2g" target="_blank"> Meet the Solar₿it</a>
 ### $0 / Kwh / Ths
