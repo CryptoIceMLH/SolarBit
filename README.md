@@ -11,7 +11,7 @@ If you wish to support our work you can visit our goal at
 
 - [x] Prototype build folder
 
-- [x] Firmware Beta
+- [x] Firmware
 
 
 #
@@ -25,30 +25,115 @@ If you wish to support our work you can visit our goal at
 Your BTC Home miner perpetual energy partner.
 
 
-## Summary of Specs:
+# SolarBit Features
 
-- [x]Off-grid (wifi coverage required)
+## 🌞 Solar Tracking System
+- **Dual-Axis Solar Tracking**: Automatic East-West and North-South movement for optimal sun positioning
+- **Intelligent Light Detection**: 4-quadrant LDR sensor array for precise sun location
+- **Adaptive Tracking Algorithm**: Dynamic threshold adjustment based on ambient light conditions
+- **Manual Override Mode**: Direct stepper motor control for setup and maintenance
+- **Safety Limit Switches**: Hardware boundaries prevent mechanical damage
+- **Smooth Motion Control**: Configurable step delays for precise and quiet operation
 
-- [x]Outdoor (uv & water resistant)
+## 🔌 Power Monitoring & Management
+- **Multi-Rail Power Monitoring**: Real-time voltage, current, and power measurement
+  - Solar panel input monitoring
+  - Battery system monitoring
+  - 12V rail monitoring
+  - 5V rail monitoring
+- **INA260 Sensor Integration**: High-precision I2C power sensors with 1.25mA current resolution
+- **Battery Protection**: Automated equipment control based on voltage thresholds
+- **Real-time Power Analytics**: Live power flow visualization and data logging
 
-- [x]Day time ops only
+## ⚡ Automated Mining Equipment Control
+- **Voltage-Based Auto Control**: Automatic miner on/off based on battery voltage
+- **Dual Mining Support**: Independent 12V and 5V mining equipment control
+- **Battery Protection**: Prevents over-discharge with configurable voltage thresholds
+- **Manual Override**: Direct control when automation is disabled
+- **State Monitoring**: Real-time status of all connected mining equipment
 
-- [x]Fully autonomous power management
+## 🌡️ Thermal Management System
+- **Precision Temperature Monitoring**: Thermistor-based temperature sensing
+- **Automatic Fan Control**: Temperature-responsive cooling with multiple speed zones
+- **Manual Fan Override**: Direct PWM speed control (0-255 range)
+- **RPM Monitoring**: Real-time fan speed measurement via tachometer
+- **Thermal Protection**: Automatic maximum cooling when temperature exceeds safe limits
 
-- [x]Fully autonomous 2 axis Sun tracking
+## 🌐 Web Interface & Connectivity
+- **Responsive Web Dashboard**: Modern, mobile-friendly control interface
+- **Real-time Data Updates**: Live sensor readings and system status
+- **WiFi Configuration Portal**: Captive portal setup for easy network configuration
+- **Cross-Platform Access**: Works on any device with a web browser
+- **Dark Theme UI**: Professional appearance with orange accent colors
+- **Intuitive Controls**: Simple buttons and sliders for all system functions
 
-- [x]30w / 60w Solar PV model dependant.
+## 🔧 System Configuration & Setup
+- **Captive Portal Setup**: Automatic WiFi configuration on first boot
+- **EEPROM Credential Storage**: Persistent WiFi settings across reboots
+- **Factory Reset Capability**: Easy return to default configuration
+- **OTA Firmware Updates**: Over-the-air updates via web interface
+- **SPIFFS File System**: Web interface files stored on ESP32 flash
 
-- [x]Esp32 S3 with external antenna
+## 📊 Monitoring & Diagnostics
+- **System Health Monitoring**: Free heap memory and uptime tracking
+- **Comprehensive Sensor Readouts**: All system parameters in one dashboard
+- **Error Detection**: Sensor communication error reporting
+- **Debug Information**: Serial output for troubleshooting
+- **Status Indicators**: Clear visual feedback for all system states
 
-- [x]4 xINA260AIPWR power monitoring ICs for extensive power monitoring.
+## 🔒 Safety & Protection Features
+- **Hardware Limit Switches**: Physical movement boundaries on all axes
+- **Emergency Stop Function**: Immediate motor shutdown capability
+- **Automatic Motor Disable**: Power saving and overheat prevention
+- **Voltage Protection**: Battery discharge protection for mining equipment
+- **Thermal Shutdown**: Fan control prevents system overheating
+- **Interrupt-Safe Code**: Proper handling of real-time sensor inputs
 
-- [x]Case temp monitoring for active thermal management
+## 🛠️ Hardware Integration
+- **ESP32 Platform**: High-performance microcontroller with WiFi capability
+- **Stepper Motor Control**: Precise positioning with enable/disable functionality
+- **I2C Sensor Bus**: Multiple power monitoring sensors on single bus
+- **PWM Fan Control**: Variable speed cooling with feedback
+- **Analog Sensor Inputs**: Temperature and light level monitoring
+- **Digital I/O Control**: Mining equipment and safety switch interfaces
 
-- [x]Compatible with all Bitaxe series of $BTC miner (5v barrel jack and 12v XT-30)
+## 📱 User Experience Features
+- **Zero-Configuration Setup**: Automatic captive portal on first boot
+- **Intuitive Controls**: Clear labeling and logical interface layout
+- **Real-time Feedback**: Immediate response to user commands
+- **Mobile Optimization**: Touch-friendly controls for smartphone/tablet use
+- **Status Persistence**: System remembers settings across power cycles
+- **Multi-Device Access**: Simultaneous access from multiple devices
 
-- [x]Bitaxe accessory port (BAP) ready
+## 🔄 Operational Modes
+- **Automatic Tracking Mode**: Hands-off solar following operation
+- **Manual Control Mode**: Direct user control of all functions
+- **Maintenance Mode**: Safe configuration for setup and servicing
+- **Emergency Mode**: Quick shutdown and safety protocols
+- **Setup Mode**: Initial configuration and WiFi setup
 
+## 📈 Performance Features
+- **High-Resolution Tracking**: 800 steps per revolution motor control
+- **Fast Response Time**: 500ms sensor update cycle
+- **Efficient Power Usage**: Motors disabled when not in use
+- **Smooth Operation**: Configurable step delays prevent mechanical stress
+- **Precision Control**: Individual step-level positioning accuracy
+
+## 🔧 Developer Features
+- **Modular Code Structure**: Well-organized functions for easy modification
+- **Comprehensive Documentation**: Detailed code comments and explanations
+- **API Endpoints**: RESTful HTTP interface for external integration
+- **JSON Data Format**: Structured data output for external applications
+- **Extensible Design**: Easy to add new sensors and features
+- **Open Source**: Fully documented and modifiable codebase
+
+## 🌟 Advanced Capabilities
+- **Dynamic Threshold Adjustment**: Light-level adaptive tracking sensitivity
+- **Multi-Sensor Fusion**: Combines multiple LDR readings for accurate positioning
+- **Predictive Control**: Intelligent movement based on light patterns
+- **Failsafe Operation**: Continues operation even with sensor failures
+- **Remote Monitoring**: Full system access from anywhere on the network
+- **Scalable Architecture**: Design supports additional modules and sensors
 Note: As this is a live project, all data is subject to change at any time.
 
 
