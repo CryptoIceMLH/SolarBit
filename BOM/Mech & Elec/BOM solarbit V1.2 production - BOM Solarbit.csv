@@ -1,0 +1,50 @@
+Part description ,Number required,Comments
+LDR PCB,1,
+6p - 6p Molex(MX1.25) LDR cable ,1,60cm long
+30mm Glass Hemisphere dome LDR,1,
+6006 bearings,2,2020 bar support brakets
+limit switch ,4,X & Y axis Gearbox limits
+"JST XHP 2.50mm Pitch Cable,3P",4,limit switch cable 50cm
+Nema17 17HS3401S,2,Gearbox motors
+6pin PH2.0-4pin XH2.54,2,Motor Cables ( note you need straight cable not crossover)55cm
+Green 16mm mometary switch ,1,Reset
+socket 16mm mometary switch,1,reset switch cable harness
+Green 16mm /15Amps switch ,1,On/Off
+socket 16mm /15Amps,1,power switch cable harness
+10k NTC temp sensor XH2.54-2Y,1,Case temp sensor
+Solarbit PCB,1,
+A4988 steper driver,2,stepper motor drivers
+Victron Energy BlueSolar PWM-light 12/24-Volt 10Amp,1,Solar battery charger
+Grease ,Tub,Any lubricant grease.  
+Solar panel 30W,2,
+"6mm plastic BBs Gearbox ""bearings""",until gears are covered,Tube ( a few thousand)
+2020 extruded bar,1,1M long
+LiFePO4 Battery12V 6Ah,1,system battery
+Noctua NF-A8 PWM 4-Pin,1,Case fan
+MC4 to XT60 parallel connection,1/2,cables solar to charger
+16 Gauge Silicone Wire 30cm,2,power cables charger to PCB
+16 Gauge Silicone Wire 30cm,2,power cables PCB to battery
+6.3mm Female Connector Terminal,2,Battery cable connectors 
+Bolts M8x35 Hex Socket Button Head,5,Case to subframe
+M8 inserts,5,case to subrame
+Bolts M8x50 Hex,4,subrame to feet
+M8 wingnuts,4,subrame to feet
+M3x12mm,8,Bolts motors to mount
+M3x 20mm,12,Bolts motor mount to gearbox
+M5x30mm,12,Bolts gearbox X & Y
+M5 nuts,12,Nuts gearbox X & Y
+M5x40mm,7,Bolts support brackets & X gearbox
+M5 nuts,7,Nuts support brackets & X gearbox
+M5x40mm,6,Bolts Dove tail mount
+M5 nuts,6,Nuts Dove tail mount
+M5x 60mm,2,X axis bolt gearbox/limit switch trigger
+M5 nuts,2,X axis nut gearbox/limit switch trigger
+M3x6or10mm Grub Screw,2,Dove tail mount to main case 
+M3x 12mm countersunk,5,Bolts for door
+M3x8 ,5, insers for door
+M5x15mm,8,Bolts to retain solar panels
+M5 nuts,8,Nuts to retain solar panels
+M5x15mm,4,Bolts to retain braket to 2020 bar
+Grub screw M6x10mm,2, to retain 2020 bar horizontal
+Grub screw M5x15 or bolt allen head. ,2,Vertical Limit switch trigger
+"general mounting screw 4x3/8"" self tap",1pack(100),to mount switches and other small parts
