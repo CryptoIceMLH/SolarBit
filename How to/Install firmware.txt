@@ -1,0 +1,42 @@
+SolarBit Firmware
+
+How to install FW
+
+
+-connect usbC to Solarbit PCB
+-plug usb cable to PC
+-open chrome based browser
+OPTION 1 
+-go to https://esp.huhn.me/ 
+-PRESS and HOLD solarbitPCB BOOT button located right side of PCB ESP module.
+-Whilst HOLDING DOWN THE BOOT BUTTON power on Solarbit main power switch - Then release Boot button - should hear a windows "dingdong
+-now the ESP is in Bootloader mode
+-On your webbrowser PRESS GREEN CONNECT BUTTON
+-Pop up window to sellect the COM port of your solarbit ESP
+-A New window should  appear
+-on FIRST TAB enter 0 ( it should look 0X0) far side select file 
+-Select V1.3.7b.ino.merged.bin  file and flash ( its the fifth file in the build/esp32 folder ) 
+-it will prompt to confirm - Continue 
+
+OPTINO 2
+
+= go to https://web.esphome.io/
+-PRESS and HOLD solarbitPCB BOOT button located right side of PCB ESP module.
+-Whilst HOLDING DOWN THE BOOT BUTTON power on Solarbit main power switch - Then release Boot button - should hear a windows "dingdong
+-now the ESP is in Bootloader mode
+-hit connect on browser ui
+-sellect the COM port of your solarbit ESP
+Select V1.3.7b.ino.merged.bin  file and flash ( its the fifth file in the build/esp32 folder )
+flash it 
+- after it completes you should press reset button on Solarbit door.
+-open your phone wifi networks 
+-select Solarbit Config
+-Password "solarbit123"
+enter your credectials : SSID and PAssword of the network you want the Solarbit to connect to
+Press Save- Wait a few seconds and solarbit will reset. It should be now connected to your network.
+enter its ip address that was assisgned to it by your router and enter that ip into your web browser. 
+Enjoy
+
+
+
+
