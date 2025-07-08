@@ -13,6 +13,8 @@ If you wish to support our work you can visit our goal at
 
 - [x] Firmware
 
+- [x] BOM Mechanical & Electrical 
+
 
 #
 ![Solarbit_1 1 (8)_gobrrr me](https://github.com/user-attachments/assets/336f6e9d-163b-489b-a487-5bbd97e5dc91)
